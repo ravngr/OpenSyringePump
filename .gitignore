@@ -1,0 +1,8 @@
+# Backup and generated files
+*.gcode
+*.bak
+
+# Generic OS files
+Thumbs.db
+.DS_Store
+
